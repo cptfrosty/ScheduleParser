@@ -141,7 +141,7 @@ D:\projects\ScheduleParser\ExampleShedule\results
 2 МДК 02.02 Инструментальные средства разработки программного обеспечения   Дмитриев Алексей Андреевич  216
 Результаты сохранены в: D:\projects\ScheduleParser\ExampleShedule\results\output25_09_25_14_25_19.xlsx
 ```
-Тек же формируется excel отчёт.
+Так же формируется excel отчёт.
 
 ## Nuget-пакеты
 - EPPlus 8.0.6 - для работы с excel форматом
